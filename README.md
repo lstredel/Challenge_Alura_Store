@@ -9,6 +9,6 @@
 ## Costo Promedio de Envio: El envio es costeado por el cliente,con un valor promedio por tienda de: Tienda1 $26019, Tienda2  $25216, Tienda3 $24806, Tienda4 $23459. Siendo este el menor valor promedio.
 #CONCLUSIONES y RECOMENDACIONES
 ## Despues de realizado el analisis, es dificil concluir cual tienda debemos cerrar, ya que falta un dato muy importante que es la rentabilidad de la tienda con respecto a las ventas, pero a traves de este analisis obtuvimos valiosos resultados que nos permitiran fortalecer nuestra posicion en el mercado.
-## A pesar que la tienda4 es la de menor ventas (23,6%), representa casi 1/4 de las ventas totales, con solo 2,5 porcentuales con respecto a la tienda de mayor venta (tienda1).
+## A pesar que la tienda4 es la de menor ventas (23,6%), representa casi 1/4 de las ventas totales, con solo 2,5 puntos porcentuales menos con respecto a la tienda de mayor venta (tienda1).
 ## La Tienda4 presenta bajo nivel de ventas en la categoria Electrodomesticos. Debemos realizar analisis del bajo nivel de ventas en el segmento para entonces asi incrementar nuestro posicionamiento.
 ## A pesar que la Tienda1 representa la mayor participacion (26,1%) de las ventas totales, es la que presenta la menor calificacion de satisfaccion (3,98⭐). Debemos realizar capacitacion al personal de ventas, atencion al cliente y logisticas para mejorar la percepcion de nuestros clientes.
