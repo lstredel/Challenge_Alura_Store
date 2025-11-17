@@ -26,6 +26,12 @@ Git / GitHub – Control de versiones y publicación
 ## A pesar que la tienda4 es la de menor ventas (23,6%), representa casi 1/4 de las ventas totales, con solo 2,5 puntos porcentuales menos con respecto a la tienda de mayor venta (tienda1).
 ## La Tienda4 presenta bajo nivel de ventas en la categoria Electrodomesticos. Debemos realizar analisis del bajo nivel de ventas en el segmento para entonces asi incrementar nuestro posicionamiento.
 ## A pesar que la Tienda1 representa la mayor participacion (26,1%) de las ventas totales, es la que presenta la menor calificacion de satisfaccion (3,98⭐). Debemos realizar capacitacion al personal de ventas, atencion al cliente y logisticas para mejorar la percepcion de nuestros clientes.
+
+
+# Visualizacion Geografica de Ventas
+file:///C:/Users/itost/Downloads/mapa_ventas_por_tienda_interactivo%20(2).html
+
+
 # Autor
 Lic Contaduria Publica y Estudiante Data Science 
 Lisber Stredel Nuñez
