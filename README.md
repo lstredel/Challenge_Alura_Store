@@ -1,3 +1,17 @@
+# Objetivo del análisis
+Comparar el desempeño de las 4 tiendas de Alura Store.
+Identificar cuál es la tienda menos eficiente considerando ingresos, volumen de ventas, satisfacción del cliente y operación.
+Presentar los resultados de forma visual mediante gráficos.
+Emitir una recomendación sobre qué tienda debería vender el Sr. Juan.
+
+# Tecnologías utilizadas
+Python
+Pandas – Limpieza y análisis de datos
+Matplotlib / Seaborn – Visualización de datos
+Google Colab – Ejecución del notebook
+Git / GitHub – Control de versiones y publicación
+
+
 # Challenge_Alura_Store
 #RESULTADOS OBTENIDOS
 ## Una vez realizado el analisis de los datos recopilados de ventas de las cuatro tiendas del Sr. Juan podemos Obtuvimos los siguientes resultados: 
@@ -12,3 +26,7 @@
 ## A pesar que la tienda4 es la de menor ventas (23,6%), representa casi 1/4 de las ventas totales, con solo 2,5 puntos porcentuales menos con respecto a la tienda de mayor venta (tienda1).
 ## La Tienda4 presenta bajo nivel de ventas en la categoria Electrodomesticos. Debemos realizar analisis del bajo nivel de ventas en el segmento para entonces asi incrementar nuestro posicionamiento.
 ## A pesar que la Tienda1 representa la mayor participacion (26,1%) de las ventas totales, es la que presenta la menor calificacion de satisfaccion (3,98⭐). Debemos realizar capacitacion al personal de ventas, atencion al cliente y logisticas para mejorar la percepcion de nuestros clientes.
+# Autor
+Lic Contaduria Publica y Estudiante Data Science 
+Lisber Stredel Nuñez
+https://www.linkedin.com/in/lisber-stredel-nu%C3%B1ez-67975715/
